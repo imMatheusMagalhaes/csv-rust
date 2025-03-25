@@ -1,0 +1,19 @@
+{
+  "file_name": "9bf50706-49b8-4ba3-ba07-aede8deed024.csv",
+  "bucket": "integrado-files",
+  "schema": {
+    "type": "object",
+    "properties": {
+      "sku": {
+        "type": "string"
+      },
+      "name": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "sku",
+      "name"
+    ]
+  }
+}
